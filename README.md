@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Akif</h1>
-<h3 align="center">I'm a newbie from Turkey. I like to do something real, this pushed me up to code world. I hope, I will be in code world in several months/years.</h3>
+<h3 align="center">I'm a learner from Turkey. I like to do something real, this pushed me up to code world. I hope, I will be in code world in several months/years.
+</h3>
 
 - 🌱 I’m currently learning **RUST, PYTHON**
 

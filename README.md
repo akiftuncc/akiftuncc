@@ -2,7 +2,7 @@
 <h3 align="center">
 </h3>
 
-- 🌱 I'm improving myself -> **HTML,CSS,JAVASCRIPT, PYTHON**
+- 🌱 **CODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

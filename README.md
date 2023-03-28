@@ -2,7 +2,8 @@
 <h3 align="center">
 </h3>
 
-- 🌱 Just a developer https://akiftunc.online
+- 🌱 Just a developer 
+- Web projects: https://akiftunc.online
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

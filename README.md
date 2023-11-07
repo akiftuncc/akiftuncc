@@ -11,4 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<h2 align="left">Html/Css/Js</h2>
+<h2 align="left">React</h2>
+<h2 align="left">Node</h2>
+<h2 align="left">Python</h2>

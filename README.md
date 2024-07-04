@@ -21,8 +21,3 @@
 
 
 ---
-
-<h3 align="center">Goals and Plans:</h3>
-<p align="left">
-  I am currently working on improving my skills in backend development and exploring new technologies. My goal is to contribute to open-source projects and collaborate with other developers to create impactful software solutions.
-</p>
